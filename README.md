@@ -1,5 +1,5 @@
 # IDDRISU YAKUBU
-*A self taught programmmer, web developer, an aspiring data scientist  | a basketball aficionado*
+*A self taught programmer, web developer, an aspiring data scientist  | a basketball aficionado*
 
 # Education
 * Bachelors  of Science (Applied Math), *University of Kara*, 2015-2017
